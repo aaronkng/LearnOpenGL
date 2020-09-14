@@ -1,0 +1,11 @@
+﻿  BasicLighting.cpp
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\Shader.h(47,35): warning C4101: 'e': unreferenced local variable
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(145,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(298,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(299,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(303,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(304,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(306,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(307,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Basic Lighting\Basic Lighting\BasicLighting.cpp(314,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Basic Lighting.vcxproj -> C:\OpenGL Projects\LearnOpenGL\Basic Lighting\x64\Debug\Basic Lighting.exe

@@ -1,0 +1,9 @@
+﻿  HelloTriangle.cpp
+  Shaders.cpp
+  Generating Code...
+Shaders.obj : error LNK2005: "void __cdecl framebuffer_size_callback(struct GLFWwindow *,int,int)" (?framebuffer_size_callback@@YAXPEAUGLFWwindow@@HH@Z) already defined in HelloTriangle.obj
+Shaders.obj : error LNK2005: "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) already defined in HelloTriangle.obj
+Shaders.obj : error LNK2005: main already defined in HelloTriangle.obj
+Shaders.obj : error LNK2005: "char const * const vertexShaderSource_0" (?vertexShaderSource_0@@3PEBDEB) already defined in HelloTriangle.obj
+Shaders.obj : error LNK2005: "char const * const fragmentShaderSource_0" (?fragmentShaderSource_0@@3PEBDEB) already defined in HelloTriangle.obj
+C:\OpenGL Projects\Learn OpenGL\x64\Debug\LearnOpenGL.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,3 @@
+﻿  Texture.cpp
+C:\OpenGL Projects\LearnOpenGL\Textures\Textures\Shader.h(46,35): warning C4101: 'e': unreferenced local variable
+  Textures.vcxproj -> C:\OpenGL Projects\LearnOpenGL\Textures\x64\Debug\Textures.exe

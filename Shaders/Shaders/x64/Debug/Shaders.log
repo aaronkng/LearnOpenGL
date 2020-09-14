@@ -1,0 +1,4 @@
+﻿  Shaders.cpp
+C:\OpenGL Projects\LearnOpenGL\Shaders\Shaders\Shader.h(46,35): warning C4101: 'e': unreferenced local variable
+C:\OpenGL Projects\LearnOpenGL\Shaders\Shaders\Shaders.cpp(123,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shaders.vcxproj -> C:\OpenGL Projects\LearnOpenGL\Shaders\x64\Debug\Shaders.exe

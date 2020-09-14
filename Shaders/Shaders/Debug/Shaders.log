@@ -1,0 +1,42 @@
+﻿  Shaders.cpp
+Shaders.obj : error LNK2019: unresolved external symbol _gladLoadGLLoader referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Shaders.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Shaders.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Shaders.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glClear
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glClearColor
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glViewport
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glDrawElements
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glBindBuffer
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glDeleteBuffers
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glGenBuffers
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glBufferData
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glAttachShader
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glCompileShader
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glCreateProgram
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glCreateShader
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glDeleteProgram
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glDeleteShader
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glEnableVertexAttribArray
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glGetProgramiv
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glGetProgramInfoLog
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glGetShaderiv
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glGetShaderInfoLog
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glLinkProgram
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glShaderSource
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glUseProgram
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glVertexAttribPointer
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glBindVertexArray
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glDeleteVertexArrays
+Shaders.obj : error LNK2001: unresolved external symbol _glad_glGenVertexArrays
+C:\OpenGL\libs\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\OpenGL Projects\LearnOpenGL\Shaders\Debug\Shaders.exe : fatal error LNK1120: 39 unresolved externals

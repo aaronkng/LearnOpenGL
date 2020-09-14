@@ -1,0 +1,26 @@
+﻿  Materials.cpp
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Shader.h(47,35): warning C4101: 'e': unreferenced local variable
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(149,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(213,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(213,23): warning C4244:         with
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(213,23): warning C4244:         [
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(213,23): warning C4244:             T=float
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(213,23): warning C4244:         ]
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(214,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(214,23): warning C4244:         with
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(214,23): warning C4244:         [
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(214,23): warning C4244:             T=float
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(214,23): warning C4244:         ]
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(215,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(215,23): warning C4244:         with
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(215,23): warning C4244:         [
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(215,23): warning C4244:             T=float
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(215,23): warning C4244:         ]
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(343,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(344,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(348,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(349,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(351,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(352,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Materials\Materials\Materials.cpp(359,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Materials.vcxproj -> C:\OpenGL Projects\LearnOpenGL\Materials\x64\Debug\Materials.exe

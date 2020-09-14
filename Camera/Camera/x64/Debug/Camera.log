@@ -1,0 +1,20 @@
+﻿  Camera.cpp
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Shader.h(47,35): warning C4101: 'e': unreferenced local variable
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(190,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(214,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(215,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(335,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(336,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(340,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(341,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(343,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(344,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(353,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(354,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(358,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(359,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(361,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(362,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(371,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL Projects\LearnOpenGL\Camera\Camera\Camera.cpp(373,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Camera.vcxproj -> C:\OpenGL Projects\LearnOpenGL\Camera\x64\Debug\Camera.exe
